@@ -1,6 +1,9 @@
 #!/usr/bin/node
 /*
     Print a square with the character #
+    USING PARSINT THAT TAKES 2 ARGS
+    1ST IS THE STRING
+    2ND THE BASE TO CONVERT THE STRING ACC TO IF HEXA OR OCT OR SO
     
     The size of the square must be the first argument 
     of the program.
