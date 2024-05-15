@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+'''A square class definition'''
+
 
 class square():
     '''A square class'''
@@ -23,9 +25,9 @@ class square():
         '''beautifying the output'''
         return "{}/{}".format(self.width, self.height)
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    s = square(width=12, height=9)
-    print(s)
-    print(s.area_of_my_square())
-    print(s.PermiterOfMySquare())
+#     s = square(width=12, height=9)
+#     print(s)
+#     print(s.area_of_my_square())
+#     print(s.PermiterOfMySquare())
